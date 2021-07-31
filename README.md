@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xiami5555
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate on Game AI
 - 📫 How to reach me ...
 
 <!---
